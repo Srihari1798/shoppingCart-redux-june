@@ -1,4 +1,4 @@
-.App {
+/* .App {
   text-align: center;
 }
 
@@ -35,4 +35,19 @@
   to {
     transform: rotate(360deg);
   }
+} */
+.cart{
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  grid-gap: 10px;
+ 
+
+}
+img{
+  height: 100px;
+}
+.product {
+  border: 1px solid #000;
+  padding: 10px;
+background-color: aliceblue;
 }

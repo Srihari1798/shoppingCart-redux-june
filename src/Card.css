@@ -1,0 +1,22 @@
+.nav{
+    display: flex;
+    background-color: black;
+    color: white;
+}
+.nav-left ul{
+    display: flex;
+    list-style: none;
+    margin-left: 800px;
+    gap: 10px;
+    color: white;
+   
+}
+
+ul li {
+    text-decoration: none;
+  }
+  
+  ul li a {
+    color: white;
+    text-decoration: none;
+  }
